@@ -2,7 +2,7 @@
 This app will calculate the total outstanding per patron on a bill &amp; split it across with the tip percent
 
 # Installation
-Once cloned, the app should be accessible via Xcode & running it
+Once cloned, the app should be accessible via Xcode & running it on iOS Deployment target of 13.0
 
 # Background
 This app is an original stub clone of The App Brewery - Tipsy app (better name but Copyright) thus the AutoLayout and initial view controller has a
